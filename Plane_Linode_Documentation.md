@@ -29,3 +29,7 @@
 ### 6. Install & Configure Fail2Ban
 
 - Install "epel-release"
+
+### 7. Install Docker Engine/Docker Compose
+
+### 8. Download & Install Plane Community Edition
