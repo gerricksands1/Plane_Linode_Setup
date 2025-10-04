@@ -33,3 +33,9 @@
 ### 7. Install Docker Engine/Docker Compose
 
 ### 8. Download & Install Plane Community Edition
+
+### 9. Install & Configure Nginx
+
+### 10. Change A Record, App Name, & Nginx Config
+
+### 11. Install & Configure Let's Encrypt
